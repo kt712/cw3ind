@@ -15,7 +15,7 @@ export default {
                         <div class="card-body">       
                         
                             
-                            <h2 class="card-title"><p>Subject: {{ lessons.subject }}</p></h2>
+                            <h2 class="card-title"><p>Subject: {{ lessons.title }}</p></h2>
                             
                             <p class="card-text">Location: {{ lessons.location }}</p>
                             <p class="card-text">Price: {{ lessons.price }}</p>
