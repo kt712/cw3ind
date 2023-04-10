@@ -65,7 +65,7 @@ export default {
                                 <div class="card-deck">
                                 <div class="card">
                                     <div class="card-body">
-                                            <h3 style="color: black;" class="card-title">Student Details</h3>
+                                            <h3 style="color: black;" class="card-title">Checkout Details</h3>
                                             <div>
                                                 <label style="color: black;" for="name">Your Name</label>
                                                 <input class="form-control" v-model="user.name" type="text" required>
